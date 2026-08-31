@@ -2,13 +2,22 @@
 
 ![DeskBridge](https://deskhero.jp/deskbridge/ogp-deskbridge.png)
 
-DeskBridgeは、同じLAN内のWindows PCを1組のマウスとキーボードで操作するためのソフトウェアです。画面端へカーソルを動かすだけで操作先を切り替え、テキスト、画像、ファイル、フォルダのクリップボード共有やリモート画面にも対応します。
+DeskBridgeは、在宅勤務で手元にある自宅PCと会社支給PC、または複数台のWindows PCを、1組のマウスとキーボードで操作するためのソフトウェアです。
+
+PCごとにマウスとキーボードを持ち替える必要はありません。画面端またはショートカットで操作先を切り替え、テキスト、画像、ファイル、フォルダの共有やリモート画面も同じLAN内で利用できます。
 
 ## 30日間無料
 
 カード登録なしで、すべての機能を30日間試せます。無料期間が終了するとアプリ内に購入案内が表示され、継続利用する場合のみライセンスが必要です。
 
-[公式サイト](https://deskhero.jp/deskbridge/) | [無料ダウンロード](https://deskhero.jp/deskbridge/safe-download/) | [料金プラン](https://deskhero.jp/deskbridge/purchase/)
+[30日間無料で試す](https://deskhero.jp/deskbridge/safe-download/) | [機能を見る](https://deskhero.jp/deskbridge/) | [料金プラン](https://deskhero.jp/deskbridge/purchase/)
+
+## こんな方に
+
+- 自宅PCと会社支給PCを、デスク上の1組のマウスとキーボードで操作したい方
+- メインPC、サブPC、ノートPCなど、複数台のWindows PCを日常的に使う方
+- PC間で文章、画像、ファイルをすばやく受け渡したい方
+- モニターを見ながら、離れたPCを手元から操作したい方
 
 ## 料金
 
@@ -23,6 +32,7 @@ DeskBridgeは、同じLAN内のWindows PCを1組のマウスとキーボード�
 ## 主な機能
 
 - 画面端またはショートカットによる操作PCの切り替え
+- Ctrlを押している時だけPCを切り替える設定も選択可能
 - マウス・キーボード共有
 - テキスト、画像、ファイル、フォルダのクリップボード共有
 - 同じLAN内でのリモート画面表示
