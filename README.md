@@ -49,6 +49,21 @@ PCごとにマウスとキーボードを持ち替える必要はありません
 
 ## 始め方
 
+### どちらをダウンロードすればよいですか？
+
+|  | Home | Work Lite |
+| --- | --- | --- |
+| 主な用途 | 自宅・個人のPC | 導入許可を得た会社PC |
+| 起動時の管理者権限 | 使用します | 管理者権限なしで起動 |
+| マウス・キーボード共有 | 対応 | 対応 |
+| ファイル・フォルダの転送 | 対応 | 対象外 |
+
+普段の自宅PCにはHome版をお選びください。Work Lite版も、勤務先の導入許可やネットワーク制限を回避するものではありません。
+
+[Home・Work Liteを選んで無料ダウンロード](https://deskhero.jp/deskbridge/safe-download/?utm_source=github&utm_medium=readme&utm_campaign=edition_guide)
+
+### 最初の接続
+
 1. 2台のPCへDeskBridgeをダウンロードします。
 2. 両方のPCでDeskBridgeを起動します。
 3. 表示された6桁のペアリングコードを確認して承認します。
@@ -56,6 +71,28 @@ PCごとにマウスとキーボードを持ち替える必要はありません
 5. カーソルを画面端へ動かして操作先を切り替えます。
 
 ## サポート
+
+### 購入前によくある質問
+
+**自宅から、会社に置いたPCを操作できますか？**
+
+DeskBridgeは同じLAN内のPC向けです。在宅勤務では、手元にある会社支給PCと自宅PCを並べて使う場面を想定しています。
+
+**カーソルを端へ動かすたびに切り替わりますか？**
+
+設定で切り替え方を選べます。Ctrlキーを押している間だけ画面端で切り替える方式にも変更できます。
+
+**無料期間が終わると自動で請求されますか？**
+
+無料体験にはカード登録が不要です。30日間の試用期間が終わると接続機能が停止し、継続利用を希望する場合に料金プランを選んで購入します。
+
+**家族のPCも同じライセンスで使えますか？**
+
+1ライセンスは同一利用者が管理するPC4台までです。ご家族が別の利用者として使う場合は、それぞれのライセンスが必要です。
+
+まずは2台で、画面の切り替えや普段の入力がご自身の環境で使えるかお試しください。
+
+[カード登録なしで30日間試す](https://deskhero.jp/deskbridge/safe-download/?utm_source=github&utm_medium=readme&utm_campaign=faq_trial)
 
 [お問い合わせ](https://deskhero.jp/deskbridge/contact/) | [利用規約](https://deskhero.jp/deskbridge/terms/) | [プライバシーポリシー](https://deskhero.jp/deskbridge/privacy/) | [特定商取引法に基づく表記](https://deskhero.jp/deskbridge/legal/)
 
