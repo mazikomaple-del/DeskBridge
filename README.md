@@ -1,5 +1,7 @@
 # DeskBridge
 
+**[English: Download, features & pricing](README.en.md)** | [30日間無料でダウンロード](https://deskhero.jp/deskbridge/safe-download/?utm_source=github&utm_medium=readme&utm_campaign=top_download)
+
 ![DeskBridge](https://deskhero.jp/deskbridge/ogp-deskbridge.png)
 
 DeskBridgeは、在宅勤務で手元にある自宅PCと会社支給PC、または複数台のWindows PCを、1組のマウスとキーボードで操作するためのソフトウェアです。
