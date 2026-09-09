@@ -6,9 +6,9 @@
 
 DeskBridge shares your keyboard, mouse and clipboard between Windows PCs on the same local network. Keep a work laptop and personal desktop side by side, or switch between your main PC and a second machine without changing input devices.
 
-![Actual DeskBridge Flow view showing two connected PCs](https://deskhero.jp/deskbridge/assets/deskbridge-flow-real.png)
+![DeskBridge in English: actual Flow view showing two connected PCs](https://deskhero.jp/deskbridge/assets/deskbridge-flow-en.png)
 
-Actual v1.0.160 screenshot in Japanese. The current release is v1.0.165. English is available in App settings.
+Actual v1.0.160 screenshot with the English interface. The current release is v1.0.165.
 
 ## What it does
 
