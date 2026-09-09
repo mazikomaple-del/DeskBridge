@@ -40,13 +40,15 @@ Try for **30 days without a card**. The trial does not automatically turn into a
 
 | Plan | Price in Japanese yen |
 | --- | --- |
-| Monthly | JPY 490 / month, auto-renewing |
-| Annual | JPY 4,980 / year, auto-renewing |
-| Permanent | JPY 9,800, one payment |
+| Monthly | Approximately US$3.18 / month; billed at 490 yen, auto-renewing |
+| Annual | Approximately US$32.28 / year; billed at 4,980 yen, auto-renewing |
+| Permanent | Approximately US$63.51; billed at 9,800 yen, one payment |
 
 One license covers up to 4 PCs managed by the same user. Separate users, including family members, need separate licenses. Subscriptions can be canceled; access continues until the paid period ends. Trial, license and update checks require internet access.
 
-The purchase page, legal terms and contact form are currently in Japanese. Payments are charged in JPY; your provider may apply conversion fees. Check compatibility during the free trial before purchasing.
+USD amounts are estimates, not fixed dollar prices. They use the [ECB reference rates](https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html) for September 8, 2026 (EUR 1 = USD 1.1614 = JPY 179.20). Checkout charges Japanese yen; your provider's exchange rate and fees determine the final dollar amount.
+
+The purchase page, legal terms and contact form are currently in Japanese. Check compatibility during the free trial before purchasing.
 
 [English product & download page](https://deskhero.jp/deskbridge/en/?utm_source=github&utm_medium=readme&utm_campaign=english_launch) | [Pricing](https://deskhero.jp/deskbridge/en/#pricing) | [Support](https://deskhero.jp/deskbridge/contact/) | [Privacy](https://deskhero.jp/deskbridge/privacy/)
 
