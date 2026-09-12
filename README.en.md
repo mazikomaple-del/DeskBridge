@@ -28,7 +28,18 @@ This is **same-LAN input sharing**, not remote desktop. Each PC keeps its own di
 | Mouse, keyboard, text and images | Yes | Yes |
 | File and folder transfer | Yes | No |
 
-Windows 10 / 11, 64-bit. Download the same edition on both PCs, extract the ZIP and run `DeskBridge.App.exe`. Select English in App settings. Use the same connection group and verify the other PC and matching code before accepting a pairing prompt.
+### Download v1.0.165 for Windows
+
+Choose the same edition on both PCs. These links download the files directly from this repository's official release; no account or card is needed to start the 30-day trial.
+
+| Edition | ZIP package | EXE installer |
+| --- | --- | --- |
+| Home | [Download Home ZIP (73 MB)](https://github.com/mazikomaple-del/DeskBridge/releases/download/v1.0.165/DeskBridge-Home-1.0.165-win-x64.zip) | [Download Home installer (54 MB)](https://github.com/mazikomaple-del/DeskBridge/releases/download/v1.0.165/DeskBridge-Setup-1.0.165.exe) |
+| Work Lite | [Download Work Lite ZIP (73 MB)](https://github.com/mazikomaple-del/DeskBridge/releases/download/v1.0.165/DeskBridge-WorkLite-1.0.165-win-x64.zip) | [Download Work Lite installer (54 MB)](https://github.com/mazikomaple-del/DeskBridge/releases/download/v1.0.165/DeskBridge-WorkLite-Setup-1.0.165.exe) |
+
+File sizes are rounded up in decimal MB. Windows 10 / 11, 64-bit only. [Release notes and SHA-256 checksums](https://github.com/mazikomaple-del/DeskBridge/releases/tag/v1.0.165).
+
+For the ZIP package, extract it and run `DeskBridge.App.exe`. For the installer, complete setup and open DeskBridge. Select English in App settings. Use the same connection group and verify the other PC and matching code before accepting a pairing prompt.
 
 [Get the Windows download](https://deskhero.jp/deskbridge/en/?utm_source=github&utm_medium=readme&utm_campaign=english_launch#work)
 
