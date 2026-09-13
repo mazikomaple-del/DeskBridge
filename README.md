@@ -2,7 +2,9 @@
 
 **[English: Download, features & pricing](README.en.md)** | [30日間無料でダウンロード](https://deskhero.jp/deskbridge/safe-download/?utm_source=github&utm_medium=readme&utm_campaign=top_download)
 
-![DeskBridge](https://deskhero.jp/deskbridge/ogp-deskbridge.png)
+![DeskBridgeの実際のFlow画面。PCカードを画面の配置に合わせて並べます。](https://deskhero.jp/deskbridge/assets/deskbridge-flow-real.png)
+
+実際の日本語画面です（撮影版v1.0.160、現在の配布版v1.0.165）。2台のPCカードを上下に配置した例で、それぞれのPCの画面を見ながら操作先を切り替えます。画面そのものを転送する機能ではありません。
 
 DeskBridgeは、在宅勤務で手元にある自宅PCと会社支給PC、または複数台のWindows PCを、1組のマウスとキーボードで操作するためのソフトウェアです。
 
@@ -68,7 +70,7 @@ PCごとにマウスとキーボードを持ち替える必要はありません
 
 ### 最初の接続
 
-1. 2台のPCへDeskBridgeをダウンロードします。
+1. 同じLANにつながった2台のPCへ、同じ版（Home同士、またはWork Lite同士）のDeskBridgeをダウンロードします。
 2. 両方のPCでDeskBridgeを起動します。
 3. 同じ接続グループを設定します。ペアリング確認が表示された場合は、相手PCとコードを確認して承認します。
 4. PCカードを実際の画面位置に合わせて配置します。
