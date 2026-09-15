@@ -45,6 +45,22 @@ For the ZIP package, extract it and run `DeskBridge.App.exe`. For the installer,
 
 **Before installing:** Home is for trusted private networks, not public Wi-Fi or sensitive environments. Work Lite does not bypass company restrictions; get IT approval first. Downloads are currently unsigned and may trigger Windows warnings. Verify the source and checksums; do not disable security protections to run the software.
 
+## First connection: from two PCs to one mouse
+
+Start with a simple test: copy a short sentence from your desktop into Notepad on the laptop beside it.
+
+1. **Choose your main PC.** Use the PC with your usual keyboard and mouse attached. Both PCs still need their own screens.
+2. **Run DeskBridge on both PCs.** Use the same edition (Home with Home, or Work Lite with Work Lite) on the same trusted LAN. Select English in App settings. For a company PC, get IT approval before installing.
+3. **Connect the right pair.** Use the same connection group, check the other PC's identity and verify the matching code before accepting a pairing prompt.
+4. **Match your desk in Flow.** Select your main PC's card and choose **Set as main PC**. Place the second PC's card to the right, left, above or below it to match your desk. Wait until connected.
+5. **Switch and paste.** Enable clipboard sharing on both PCs. Copy a harmless sentence with Ctrl+C, move to the screen edge toward the other PC, click its Notepad window, wait for clipboard sharing, then press Ctrl+V. If the Ctrl-only edge setting is enabled, hold Ctrl while crossing the edge and release it after switching.
+
+**Need to return?** While controlling the other PC, press Pause or Ctrl+Alt+Backspace to return control locally. If sharing is paused, check Game mode and the input/clipboard sharing settings. Test text first; file and folder transfer is Home-only. Do not use passwords or confidential work material for the test.
+
+**Two people on the same home network?** Give each person's set of PCs a different connection group. A group helps keep discovery separate; still verify the PC and matching code before pairing. Each person needs their own license after the trial.
+
+[Choose your edition and try for 30 days, no card required](https://deskhero.jp/deskbridge/en/?utm_source=github&utm_medium=readme&utm_campaign=first_connection_20260915#work). The app supports English; checkout, legal terms and the contact form are currently in Japanese.
+
 ## Trial and pricing
 
 Try for **30 days without a card**. The trial does not automatically turn into a paid subscription. Continued use requires a license after the trial ends.
