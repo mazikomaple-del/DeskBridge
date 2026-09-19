@@ -8,7 +8,7 @@ DeskBridge shares your keyboard, mouse and clipboard between Windows PCs on the 
 
 ![DeskBridge in English: actual Flow view showing two connected PCs](https://deskhero.jp/deskbridge/assets/deskbridge-flow-en.png)
 
-Actual v1.0.160 screenshot with the English interface. The current release is v1.0.166.
+Actual v1.0.160 screenshot with the English interface. The current release is v1.0.167.
 
 ## What it does
 
@@ -17,7 +17,7 @@ Actual v1.0.160 screenshot with the English interface. The current release is v1
 - Arrange PC cards to match your displays.
 - Choose Japanese, English, Korean or Chinese in the app.
 
-This is **same-LAN input sharing**, with optional remote viewing by double-clicking a PC card. Remote viewing was restored in v1.0.166; update both PCs. UAC consent screens still require direct input on the PC showing the prompt. It does not provide access over the internet.
+This is **same-LAN input sharing**, with optional remote viewing by double-clicking a PC card. Version 1.0.167 fixes screen capture stopping; update both PCs, especially the PC whose screen you want to view. UAC consent screens still require direct input on the PC showing the prompt. It does not provide access over the internet.
 
 ## Download
 
@@ -28,16 +28,16 @@ This is **same-LAN input sharing**, with optional remote viewing by double-click
 | Mouse, keyboard, text and images | Yes | Yes |
 | File and folder transfer | Yes | No |
 
-### Download v1.0.166 for Windows
+### Download v1.0.167 for Windows
 
 Choose the same edition on both PCs. These links download the files directly from this repository's official release; no account or card is needed to start the 30-day trial.
 
 | Edition | ZIP package | EXE installer |
 | --- | --- | --- |
-| Home | [Download Home ZIP (75 MB)](https://github.com/mazikomaple-del/DeskBridge/releases/download/v1.0.166/DeskBridge-Home-1.0.166-win-x64.zip) | [Download Home installer (54 MB)](https://github.com/mazikomaple-del/DeskBridge/releases/download/v1.0.166/DeskBridge-Setup-1.0.166.exe) |
-| Work Lite | [Download Work Lite ZIP (75 MB)](https://github.com/mazikomaple-del/DeskBridge/releases/download/v1.0.166/DeskBridge-WorkLite-1.0.166-win-x64.zip) | [Download Work Lite installer (54 MB)](https://github.com/mazikomaple-del/DeskBridge/releases/download/v1.0.166/DeskBridge-WorkLite-Setup-1.0.166.exe) |
+| Home | [Download Home ZIP (75 MB)](https://github.com/mazikomaple-del/DeskBridge/releases/download/v1.0.167/DeskBridge-Home-1.0.167-win-x64.zip) | [Download Home installer (54 MB)](https://github.com/mazikomaple-del/DeskBridge/releases/download/v1.0.167/DeskBridge-Setup-1.0.167.exe) |
+| Work Lite | [Download Work Lite ZIP (75 MB)](https://github.com/mazikomaple-del/DeskBridge/releases/download/v1.0.167/DeskBridge-WorkLite-1.0.167-win-x64.zip) | [Download Work Lite installer (54 MB)](https://github.com/mazikomaple-del/DeskBridge/releases/download/v1.0.167/DeskBridge-WorkLite-Setup-1.0.167.exe) |
 
-File sizes are rounded up in decimal MB. Windows 10 / 11, 64-bit only. [Release notes and SHA-256 checksums](https://github.com/mazikomaple-del/DeskBridge/releases/tag/v1.0.166).
+File sizes are rounded up in decimal MB. Windows 10 / 11, 64-bit only. [Release notes and SHA-256 checksums](https://github.com/mazikomaple-del/DeskBridge/releases/tag/v1.0.167).
 
 For the ZIP package, extract it and run `DeskBridge.App.exe`. For the installer, complete setup and open DeskBridge. Select English in App settings. Use the same connection group and verify the other PC and matching code before accepting a pairing prompt.
 
