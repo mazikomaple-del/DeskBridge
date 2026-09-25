@@ -61,6 +61,18 @@ Start with a simple test: copy a short sentence from your desktop into Notepad o
 
 [Choose your edition and try for 30 days, no card required](https://deskhero.jp/deskbridge/en/?utm_source=github&utm_medium=readme&utm_campaign=first_connection_20260915#work). The app supports English; checkout, legal terms and the contact form are currently in Japanese.
 
+## Software KVM, extra monitor, or hardware switch?
+
+A work laptop beside a personal desktop can look like a dual-monitor setup, but the two computers still run their own apps. Choose by what you want to share:
+
+- **Two Windows PCs, each with its own screen and apps:** this is DeskBridge's everyday input-sharing use case. Run the same edition on both PCs on the same trusted LAN, then use one keyboard and mouse to switch between them. Get IT approval before installing on a company PC.
+- **One PC connected to two monitors:** you do not need a PC-sharing app just to move between those screens. Windows has an **Extend** display option for this. See [Microsoft's multiple-monitor guide](https://support.microsoft.com/en-us/windows/hardware/display-graphics/how-to-use-multiple-monitors-in-windows).
+- **Two PCs sharing one physical monitor's video input:** a hardware KVM switches video and input devices. Check the required connections and supported resolution/refresh rate before choosing hardware; see this [example manufacturer's KVM datasheet (PDF)](https://media.startech.com/cms/pdfs/p2ad122-kvm-switch_datasheet.pdf). DeskBridge does not switch a monitor's HDMI or DisplayPort input.
+
+DeskBridge's optional remote viewing shows the other PC's screen over the LAN. It does not turn that PC into an extended Windows display, and it does not provide internet access to a PC left at the office. This is a guide to different setups, not a speed or reliability comparison with hardware.
+
+For the two-PC setup, [choose Home or Work Lite and try it for 30 days without a card](https://deskhero.jp/deskbridge/en/?utm_source=github&utm_medium=readme&utm_campaign=setup_fit_20260925#work). Test switching both ways and pasting harmless text before purchasing. The trial does not automatically start billing. The app and product page support English; checkout, legal terms and the contact form are currently in Japanese.
+
 ## Trial and pricing
 
 Try for **30 days without a card**. The trial does not automatically turn into a paid subscription. Continued use requires a license after the trial ends.
