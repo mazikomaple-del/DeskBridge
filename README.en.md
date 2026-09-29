@@ -91,4 +91,6 @@ The purchase page, legal terms and contact form are currently in Japanese. Check
 
 [English product & download page](https://deskhero.jp/deskbridge/en/?utm_source=github&utm_medium=readme&utm_campaign=english_launch) | [Pricing](https://deskhero.jp/deskbridge/en/#pricing) | [Support](https://deskhero.jp/deskbridge/contact/) | [Privacy](https://deskhero.jp/deskbridge/privacy/)
 
+[Product facts, English screenshot and review downloads for editors](MEDIA-KIT.md)
+
 Published by the developer and seller, DeskHero. This repository distributes release binaries and product information; it is not an open-source code repository.
