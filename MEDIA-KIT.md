@@ -1,6 +1,6 @@
 # DeskBridge: Facts for Editors and Software Directories
 
-Verified September 29, 2026. Prepared by DeskHero, the developer and seller. This is product information, not an independent review or evidence of acceptance by a directory.
+Verified September 30, 2026. Prepared by DeskHero, the developer and seller. This is product information, not an independent review or evidence of acceptance by a directory.
 
 [English product page and 30-day trial](https://deskhero.jp/deskbridge/en/) | [English setup guide](README.en.md) | [Japanese product page](https://deskhero.jp/deskbridge/)
 
@@ -13,7 +13,7 @@ Share one keyboard, mouse and clipboard between Windows PCs on the same LAN, wit
 | Field | Value |
 | --- | --- |
 | Product / publisher | DeskBridge / DeskHero |
-| Version checked | 1.0.167 |
+| Version checked | 1.0.168 |
 | Category | Keyboard and mouse sharing; software KVM |
 | Platform | Windows 10 / 11, 64-bit |
 | Network | Same LAN; not internet access to a PC left at the office |
@@ -47,25 +47,37 @@ Subscriptions can be canceled; access continues until the paid period ends. The 
 
 ## Official Review Downloads
 
-[Release notes, installers and checksums](https://github.com/mazikomaple-del/DeskBridge/releases/tag/v1.0.167)
+[Release notes, installers and checksums](https://github.com/mazikomaple-del/DeskBridge/releases/tag/v1.0.168)
 
 | ZIP package | Size in bytes | Download |
 | --- | ---: | --- |
-| Home 1.0.167 | 74,834,271 | [Official Home ZIP](https://github.com/mazikomaple-del/DeskBridge/releases/download/v1.0.167/DeskBridge-Home-1.0.167-win-x64.zip) |
-| Work Lite 1.0.167 | 74,834,461 | [Official Work Lite ZIP](https://github.com/mazikomaple-del/DeskBridge/releases/download/v1.0.167/DeskBridge-WorkLite-1.0.167-win-x64.zip) |
+| Home 1.0.168 | 74,835,586 | [Official Home ZIP](https://github.com/mazikomaple-del/DeskBridge/releases/download/v1.0.168/DeskBridge-Home-1.0.168-win-x64.zip) |
+| Work Lite 1.0.168 | 74,834,928 | [Official Work Lite ZIP](https://github.com/mazikomaple-del/DeskBridge/releases/download/v1.0.168/DeskBridge-WorkLite-1.0.168-win-x64.zip) |
 
 SHA-256 values, checked against the release metadata:
 
-- Home ZIP: `bf119315ac5e3ae1f15497a132e2d0b05cdf57452bf5b2d7a772c391698d78ed`
-- Work Lite ZIP: `a146e0c544d83f7e476fb5e2807dfeaad70e673a19506bd216927a45d861eb77`
+- Home ZIP: `894ec12f6be620eada88dbe5f3af6d7f5de5ed97290fd466d59e647f32a6a00d`
+- Work Lite ZIP: `a9008c438b8e077b01084f988e9f2b3243830969f5535083e6ebe7f523b90358`
 
 For the ZIP, extract it and open `DeskBridge.App.exe` on both PCs. No purchase is needed to evaluate during the trial. Start with two connected PCs, switch both ways, and test harmless text in Notepad if clipboard sharing is permitted. The [setup guide](README.en.md#first-connection-from-two-pcs-to-one-mouse) covers the main PC, pairing and returning to local control.
+
+## What to Try in 1.0.168
+
+This update moves network-adapter discovery off the input thread and avoids rebuilding the PC list when an announcement has not changed. It targets discovery-related input stalls, not every cause of lag. Update the main PC and the PCs you control, using the same edition on each.
+
+Before buying, try the tasks you actually repeat at your desk during the 30-day, no-card trial:
+
+1. Move from your main PC to each connected PC and back several times. Try Ctrl-required edge switching if accidental switches interrupt your work.
+2. Type in Notepad on the other PC, then copy harmless text between PCs if your workplace permits clipboard sharing.
+3. Keep using your normal applications for a while. Check responsiveness on every connected PC, not just the first one that pairs.
+
+These are suggested checks, not reported test results or a promise that your setup will work. If something goes wrong, note the edition/version on both PCs, the direction of control and the application in use when contacting [DeskHero support (Japanese)](https://deskhero.jp/deskbridge/contact/). Do not send passwords, license keys or confidential clipboard content.
 
 ## English Screenshot and Icon
 
 ![DeskBridge English Flow view, captured in version 1.0.160](https://deskhero.jp/deskbridge/assets/deskbridge-flow-en.png)
 
-Actual English-interface capture from v1.0.160, 1224 x 741 pixels. It is not a v1.0.167 capture or evidence of a workplace deployment. [Original PNG](https://deskhero.jp/deskbridge/assets/deskbridge-flow-en.png) | [App icon PNG](https://deskhero.jp/deskbridge/app-icon.png).
+Actual English-interface capture from v1.0.160, 1224 x 741 pixels. It is not a v1.0.168 capture or evidence of a workplace deployment. [Original PNG](https://deskhero.jp/deskbridge/assets/deskbridge-flow-en.png) | [App icon PNG](https://deskhero.jp/deskbridge/app-icon.png).
 
 Please retain the capture-version context and do not describe this as a certification, security endorsement or independent test result.
 
