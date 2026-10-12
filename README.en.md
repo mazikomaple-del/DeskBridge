@@ -59,6 +59,8 @@ Start with a simple test: copy a short sentence from your desktop into Notepad o
 
 **Need to return?** While controlling the other PC, press Pause or Ctrl+Alt+Backspace to return control locally. If sharing is paused, check Game mode and the input/clipboard sharing settings. Test text first; file and folder transfer is Home-only. Do not use passwords or confidential work material for the test.
 
+**PC visible, but the mouse will not switch?** Check the connection to that PC, the Flow card direction, your Ctrl requirement, Game mode and keyboard/mouse sharing. A visible card is not proof of a completed connection. [Open the English troubleshooting guide and actual screenshot](https://note.com/hal_mei/n/nab13bd82e2e4#06b1b3c1-9fc4-47d6-a2ec-6ad824810b7b). This free bilingual note is from the developer and seller, not an independent review; the English section starts at the link. Its screenshot was captured in v1.0.160, not the current release. It does not guarantee a fix on every setup.
+
 **Two people on the same home network?** Give each person's set of PCs a different connection group. A group helps keep discovery separate; still verify the PC and matching code before pairing. Each person needs their own license after the trial.
 
 [Choose your edition and try for 30 days, no card required](https://deskhero.jp/deskbridge/en/?utm_source=github&utm_medium=readme&utm_campaign=first_connection_20260915#work). The app supports English; checkout, legal terms and the contact form are currently in Japanese.
