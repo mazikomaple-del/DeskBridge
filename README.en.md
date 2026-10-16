@@ -32,7 +32,7 @@ Version 1.0.169 updates connection authentication, key and mouse-button release,
 
 ### Download v1.0.169 for Windows
 
-Choose the same edition and version on both PCs. These links download the current files from DeskHero's official site; no account or card is needed to start the 30-day trial. As checked on October 8, 2026, GitHub Releases still contains v1.0.168 binaries. Do not mix them with v1.0.169.
+Choose the same edition and version on both PCs. These links download the current files from DeskHero's official site; no account or card is needed to start the 30-day trial. As checked on October 16, 2026, [GitHub Releases](https://github.com/mazikomaple-del/DeskBridge/releases/tag/v1.0.169) provides the same v1.0.169 binaries as the official site. Update every PC together and pair again; do not mix versions.
 
 | Edition | ZIP package | EXE installer |
 | --- | --- | --- |

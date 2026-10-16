@@ -1,6 +1,6 @@
 # DeskBridge: Facts for Editors and Software Directories
 
-Verified October 9, 2026. Prepared by DeskHero, the developer and seller. This is product information, not an independent review or evidence of acceptance by a directory.
+Verified October 16, 2026. Prepared by DeskHero, the developer and seller. This is product information, not an independent review or evidence of acceptance by a directory.
 
 [English product page and 30-day trial](https://deskhero.jp/deskbridge/en/) | [English setup guide](README.en.md) | [Japanese product page](https://deskhero.jp/deskbridge/)
 
@@ -13,7 +13,7 @@ Share one keyboard, mouse and clipboard between Windows PCs on the same LAN, wit
 | Field | Value |
 | --- | --- |
 | Product / publisher | DeskBridge / DeskHero |
-| Version checked | Official site: 1.0.169; GitHub binaries: 1.0.168 |
+| Version checked | Official site and GitHub binaries: 1.0.169 |
 | Category | Keyboard and mouse sharing; software KVM |
 | Platform | Windows 10 / 11, 64-bit |
 | Network | Same LAN; not internet access to a PC left at the office |
@@ -49,7 +49,7 @@ Subscriptions can be canceled; access continues until the paid period ends. The 
 
 [Official release notes and validation scope](https://deskhero.jp/deskbridge/en/#release-update) | [Installers and edition selection](https://deskhero.jp/deskbridge/en/#work) | [Official SHA-256 list](https://deskhero.jp/deskbridge/download/SHA256SUMS.txt)
 
-The following are version-specific official-site files checked on October 9. GitHub Releases still contains v1.0.168 binaries. Use v1.0.169 on every PC and pair again; do not mix the two versions.
+The following are version-specific official-site files checked on October 16. [GitHub Releases](https://github.com/mazikomaple-del/DeskBridge/releases/tag/v1.0.169) now mirrors the same v1.0.169 binaries. Use v1.0.169 on every PC and pair again; do not mix old and new versions.
 
 | ZIP package | Size in bytes | Download |
 | --- | ---: | --- |
