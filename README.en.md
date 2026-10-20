@@ -30,6 +30,8 @@ Version 1.0.169 updates connection authentication, key and mouse-button release,
 | Mouse, keyboard, text and images | Yes | Yes |
 | File and folder transfer | Yes | No |
 
+**Not sure which edition to choose?** [See Home vs Work Lite with actual screenshots](https://note.com/hal_mei/n/n90bb7be20117). This free guide is by DeskHero, the developer and seller; screenshots are from v1.0.160, not the current release. It covers the ZIP/EXE permission difference and a short test before buying. The app and product page support English; checkout, terms and the contact form are currently Japanese.
+
 ### Download v1.0.169 for Windows
 
 Choose the same edition and version on both PCs. These links download the current files from DeskHero's official site; no account or card is needed to start the 30-day trial. As checked on October 16, 2026, [GitHub Releases](https://github.com/mazikomaple-del/DeskBridge/releases/tag/v1.0.169) provides the same v1.0.169 binaries as the official site. Update every PC together and pair again; do not mix versions.

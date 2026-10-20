@@ -64,11 +64,14 @@ UAC確認画面は、そのPCで直接操作する必要があります。PCご�
 |  | Home | Work Lite |
 | --- | --- | --- |
 | 主な用途 | 自宅・個人のPC | 導入許可を得た会社PC |
-| 起動時の管理者権限 | 使用します | 管理者権限なしで起動 |
+| アプリ起動時の管理者権限 | 必要 | 不要 |
+| EXEインストール時の管理者権限 | 必要 | 必要 |
 | マウス・キーボード共有 | 対応 | 対応 |
 | ファイル・フォルダの転送 | 対応 | 対象外 |
 
 普段の自宅PCにはHome版をお選びください。Work Lite版も、勤務先の導入許可やネットワーク制限を回避するものではありません。
+
+Work LiteをZIPから起動する場合と、EXEでインストールする場合では、必要な権限が異なります。[実画面付きのHome・Work Lite選び方ガイド](https://note.com/hal_mei/n/n90bb7be20117)では、その違いと購入前に試す手順をまとめています。開発・販売元による無料記事で、英語中心・日本語要点付きです。画像の撮影版は1.0.160で、現行版の撮影ではありません。
 
 [Home・Work Liteを選んで無料ダウンロード](https://deskhero.jp/deskbridge/safe-download/?utm_source=github&utm_medium=readme&utm_campaign=edition_guide)
 
