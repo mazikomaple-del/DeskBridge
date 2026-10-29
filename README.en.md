@@ -93,7 +93,7 @@ One license covers up to 4 PCs managed by the same user. Separate users, includi
 
 USD amounts are estimates, not fixed dollar prices. They use the [ECB reference rates](https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html) for September 8, 2026 (EUR 1 = USD 1.1614 = JPY 179.20). Checkout charges Japanese yen; your provider's exchange rate and fees determine the final dollar amount.
 
-The purchase page, legal terms and contact form are currently in Japanese. Check compatibility during the free trial before purchasing.
+The purchase page, legal terms and contact form are currently in Japanese. Check compatibility during the free trial before purchasing. [Read the English purchase and license-key guide](https://deskhero.jp/deskbridge/en/#purchase-help) for the Japanese plan labels, order checks, applying your key on each PC, and where to manage a subscription or request a missing key. This is navigation help, not a translation of the contract or a guarantee that your payment method is supported.
 
 [English product & download page](https://deskhero.jp/deskbridge/en/?utm_source=github&utm_medium=readme&utm_campaign=english_launch) | [Pricing](https://deskhero.jp/deskbridge/en/#pricing) | [Support](https://deskhero.jp/deskbridge/contact/) | [Privacy](https://deskhero.jp/deskbridge/privacy/)
 
