@@ -8,7 +8,7 @@ DeskBridge shares your keyboard, mouse and clipboard between Windows PCs on the 
 
 ![DeskBridge in English: actual Flow view showing two connected PCs](https://deskhero.jp/deskbridge/assets/deskbridge-flow-en.png)
 
-Actual v1.0.160 screenshot with the English interface. The current official-site download is v1.0.169; the screenshot is not from that version.
+Actual v1.0.160 screenshot with the English interface. The current official-site download is v1.0.170; the screenshot is not from that version.
 
 ## What it does
 
@@ -19,7 +19,7 @@ Actual v1.0.160 screenshot with the English interface. The current official-site
 
 This is **same-LAN input sharing**, with optional remote viewing by double-clicking a PC card. UAC consent screens still require direct input on the PC showing the prompt. It does not provide access over the internet.
 
-Version 1.0.169 updates connection authentication, key and mouse-button release, clipboard synchronization, and reconnection handling. **Update every PC to 1.0.169 and pair them again. Connections to older versions are incompatible.** Use the same edition on both PCs and directly compare the pairing code on a trusted LAN. Two-PC hardware operation, UAC, and real network disconnect/reconnect testing have not been performed; check with non-sensitive text and normal input after updating. This does not guarantee lag-free operation on every setup. [Official release notes and validation scope](https://deskhero.jp/deskbridge/en/#release-update).
+Version 1.0.170 fixes screen-edge return requests being rejected as old when the PCs' clocks differ. **Use the same edition of 1.0.170 on every PC. If upgrading from a version below 1.0.169, pair the PCs again.** For initial pairing, directly compare the code on a trusted LAN. On November 2, 288 automated tests and both edition builds passed; the reporting user confirmed returning successfully on the affected setup after updating. This is not a completed hardware test of every configuration, UAC, or network disconnect/reconnect, and does not guarantee lag-free operation. Check with non-sensitive text and normal input after updating. [Official release notes and validation scope](https://deskhero.jp/deskbridge/en/#release-update).
 
 ## Download
 
@@ -32,9 +32,9 @@ Version 1.0.169 updates connection authentication, key and mouse-button release,
 
 **Not sure which edition to choose?** [See Home vs Work Lite with actual screenshots](https://note.com/hal_mei/n/n90bb7be20117). This free guide is by DeskHero, the developer and seller; screenshots are from v1.0.160, not the current release. It covers the ZIP/EXE permission difference and a short test before buying. The app and product page support English; checkout, terms and the contact form are currently Japanese.
 
-### Download v1.0.169 for Windows
+### Download v1.0.170 for Windows
 
-Choose the same edition and version on both PCs. These links download the current files from DeskHero's official site; no account or card is needed to start the 30-day trial. As checked on October 16, 2026, [GitHub Releases](https://github.com/mazikomaple-del/DeskBridge/releases/tag/v1.0.169) provides the same v1.0.169 binaries as the official site. Update every PC together and pair again; do not mix versions.
+Choose the same edition and version on both PCs. The links below download v1.0.170 from DeskHero's official site; no account or card is needed to start the 30-day trial. As checked on November 3, 2026, [GitHub Releases (v1.0.169)](https://github.com/mazikomaple-del/DeskBridge/releases/tag/v1.0.169) is still the previous version. Use the official-site links below for the new fix. If upgrading from a version below 1.0.169, pair the PCs again.
 
 | Edition | ZIP package | EXE installer |
 | --- | --- | --- |
