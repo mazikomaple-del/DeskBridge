@@ -34,7 +34,7 @@ Version 1.0.170 fixes screen-edge return requests being rejected as old when the
 
 ### Download v1.0.170 for Windows
 
-Choose the same edition and version on both PCs. The links below download v1.0.170 from DeskHero's official site; no account or card is needed to start the 30-day trial. As checked on November 3, 2026, [GitHub Releases (v1.0.169)](https://github.com/mazikomaple-del/DeskBridge/releases/tag/v1.0.169) is still the previous version. Use the official-site links below for the new fix. If upgrading from a version below 1.0.169, pair the PCs again.
+Choose the same edition and version on both PCs. The links below download v1.0.170 from DeskHero's official site; no account or card is needed to start the 30-day trial. On November 5, 2026, [GitHub Releases (v1.0.170)](https://github.com/mazikomaple-del/DeskBridge/releases/tag/v1.0.170) began mirroring the same files published on the official site on November 2. This is not a new build. If upgrading from a version below 1.0.169, pair the PCs again.
 
 | Edition | ZIP package | EXE installer |
 | --- | --- | --- |
