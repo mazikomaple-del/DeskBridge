@@ -1,6 +1,6 @@
 # DeskBridge: Facts for Editors and Software Directories
 
-Verified October 16, 2026. Prepared by DeskHero, the developer and seller. This is product information, not an independent review or evidence of acceptance by a directory.
+Verified November 6, 2026. Prepared by DeskHero, the developer and seller. This is product information, not an independent review or evidence of acceptance by a directory.
 
 [English product page and 30-day trial](https://deskhero.jp/deskbridge/en/) | [English setup guide](README.en.md) | [Japanese product page](https://deskhero.jp/deskbridge/)
 
@@ -13,7 +13,7 @@ Share one keyboard, mouse and clipboard between Windows PCs on the same LAN, wit
 | Field | Value |
 | --- | --- |
 | Product / publisher | DeskBridge / DeskHero |
-| Version checked | Official site and GitHub binaries: 1.0.169 |
+| Version checked | Official site and GitHub binaries: 1.0.170 |
 | Category | Keyboard and mouse sharing; software KVM |
 | Platform | Windows 10 / 11, 64-bit |
 | Network | Same LAN; not internet access to a PC left at the office |
@@ -49,23 +49,23 @@ Subscriptions can be canceled; access continues until the paid period ends. The 
 
 [Official release notes and validation scope](https://deskhero.jp/deskbridge/en/#release-update) | [Installers and edition selection](https://deskhero.jp/deskbridge/en/#work) | [Official SHA-256 list](https://deskhero.jp/deskbridge/download/SHA256SUMS.txt)
 
-The following are version-specific official-site files checked on October 16. [GitHub Releases](https://github.com/mazikomaple-del/DeskBridge/releases/tag/v1.0.169) now mirrors the same v1.0.169 binaries. Use v1.0.169 on every PC and pair again; do not mix old and new versions.
+The following are version-specific official-site files checked on November 6. [GitHub Releases](https://github.com/mazikomaple-del/DeskBridge/releases/tag/v1.0.170) mirrors the same v1.0.170 binaries, published on the official site on November 2 and mirrored on November 5. Use the same edition and version on every PC. If upgrading from a version below 1.0.169, pair the PCs again; moving from 1.0.169 to 1.0.170 does not itself require re-pairing.
 
 | ZIP package | Size in bytes | Download |
 | --- | ---: | --- |
-| Home 1.0.169 | 74,864,588 | [Official Home ZIP](https://deskhero.jp/deskbridge/download/DeskBridge-Home-1.0.169-win-x64.zip) |
-| Work Lite 1.0.169 | 74,863,962 | [Official Work Lite ZIP](https://deskhero.jp/deskbridge/download/DeskBridge-WorkLite-1.0.169-win-x64.zip) |
+| Home 1.0.170 | 74,915,777 | [Official Home ZIP](https://deskhero.jp/deskbridge/download/DeskBridge-Home-1.0.170-win-x64.zip) |
+| Work Lite 1.0.170 | 74,915,086 | [Official Work Lite ZIP](https://deskhero.jp/deskbridge/download/DeskBridge-WorkLite-1.0.170-win-x64.zip) |
 
 SHA-256 values, checked against the published official checksum list and the locally verified artifact manifest. This fact-sheet refresh did not download the binaries again:
 
-- Home ZIP: `65a609e4d361f991f7bad0eba22be3d05fdd59b4422a150e5e98d8c8be50a2b9`
-- Work Lite ZIP: `ab713d0220fdf66b69abb660f49fd57dd8dfe43c311cdffeaa6a05f501f62d90`
+- Home ZIP: `eb10a70c55f2c1aba890593af749b064f17558bab60b4c75a238738977a313e7`
+- Work Lite ZIP: `e6746a56e2e8b567290092c04238b66ca5746ebbabff744f0ea3c60d1e738932`
 
 For the ZIP, extract it and open `DeskBridge.App.exe` on both PCs. No purchase is needed to evaluate during the trial. Start with two connected PCs, switch both ways, and test harmless text in Notepad if clipboard sharing is permitted. The [setup guide](README.en.md#first-connection-from-two-pcs-to-one-mouse) covers the main PC, pairing and returning to local control.
 
-## Updating to 1.0.169 and Trying Your Setup
+## Updating to 1.0.170 and Trying Your Setup
 
-The official 1.0.169 release updates connection authentication, key and mouse-button release, clipboard synchronization, and reconnection handling. **Update every PC to 1.0.169 and pair them again. Connections to older versions are incompatible.** Use a trusted LAN and directly compare the pairing code on both PCs. Previous device registrations are retained; approval stores the new authentication data. Two-PC hardware operation, UAC, and real network disconnect/reconnect testing have not been performed. Operate UAC prompts directly on the PC showing them; the suggested checks below are for your own setup, not a claim that all problems are fixed.
+Version 1.0.170 fixes screen-edge return requests being wrongly rejected when PC clocks differ. The November 2 release passed 288 automated tests and both edition builds. The person who reported the issue confirmed that returning at the screen edge worked after updating in that setup; this is not an independent review or proof of compatibility with every PC. Full hardware configurations, UAC, and real network disconnect/reconnect testing remain unverified. If upgrading from below 1.0.169, update every PC and pair again because 1.0.169 changed connection authentication. Use a trusted LAN and directly compare the pairing code on both PCs. Operate UAC prompts directly on the PC showing them; the suggested checks below are for your own setup, not a claim that all problems are fixed.
 
 Before buying, try the tasks you actually repeat at your desk during the 30-day, no-card trial:
 
@@ -75,11 +75,19 @@ Before buying, try the tasks you actually repeat at your desk during the 30-day,
 
 These are suggested checks, not reported test results or a promise that your setup will work. If something goes wrong, note the edition/version on both PCs, the direction of control and the application in use when contacting [DeskHero support (Japanese)](https://deskhero.jp/deskbridge/contact/). Do not send passwords, license keys or confidential clipboard content.
 
+## Windows Warnings and File Verification
+
+The Home and Work Lite installers and app executables checked for this release are unsigned. A signature on the update manifest is not Windows code signing. The SHA-256 list checks whether a file matches the published release; it does not certify that the software is malware-free or approved by Microsoft.
+
+An unrecognized-app warning is not the same as a malware detection. Microsoft explains that SmartScreen considers publisher and file reputation; even a signed new binary may still show a warning. [Microsoft's explanation](https://learn.microsoft.com/en-us/windows/apps/package-and-deploy/smartscreen-reputation).
+
+Do not disable Windows security, allow a detected threat, or bypass workplace policy to try DeskBridge. If protection blocks a file or reports a threat, stop and contact support or your IT team with the exact warning, file name and version. A screenshot helps distinguish browser, SmartScreen and antivirus messages; remove personal information first. Do not send license keys or confidential files.
+
 ## English Screenshot and Icon
 
 ![DeskBridge English Flow view, captured in version 1.0.160](https://deskhero.jp/deskbridge/assets/deskbridge-flow-en.png)
 
-Actual English-interface capture from v1.0.160, 1224 x 741 pixels. It is not a v1.0.169 capture or evidence of a workplace deployment. [Original PNG](https://deskhero.jp/deskbridge/assets/deskbridge-flow-en.png) | [App icon PNG](https://deskhero.jp/deskbridge/app-icon.png).
+Actual English-interface capture from v1.0.160, 1224 x 741 pixels. It is not a v1.0.170 capture or evidence of a workplace deployment. [Original PNG](https://deskhero.jp/deskbridge/assets/deskbridge-flow-en.png) | [App icon PNG](https://deskhero.jp/deskbridge/app-icon.png).
 
 Please retain the capture-version context and do not describe this as a certification, security endorsement or independent test result.
 
