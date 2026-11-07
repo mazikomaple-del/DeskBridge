@@ -8,7 +8,7 @@ DeskBridge shares your keyboard, mouse and clipboard between Windows PCs on the 
 
 ![DeskBridge in English: actual Flow view showing two connected PCs](https://deskhero.jp/deskbridge/assets/deskbridge-flow-en.png)
 
-Actual v1.0.160 screenshot with the English interface. The current official-site download is v1.0.171; the screenshot is not from that version.
+Actual v1.0.160 screenshot with the English interface. The current official-site download is v1.0.172; the screenshot is not from that version.
 
 ## What it does
 
@@ -19,7 +19,7 @@ Actual v1.0.160 screenshot with the English interface. The current official-site
 
 This is **same-LAN input sharing**, with optional remote viewing by double-clicking a PC card. UAC consent screens still require direct input on the PC showing the prompt. It does not provide access over the internet.
 
-Version 1.0.171 fixes cursor jumps after switching PCs and unintended returns from the middle of a screen or between local monitors. **Use the same edition on every PC.** Both edition builds and 293 tests passed; actual two-PC hardware operation was not tested for this release. [Release notes](https://deskhero.jp/deskbridge/en/#release-update).
+Version 1.0.172 allows only the main PC in Flow to control other PCs and rejects input from secondary PCs. Returning with the main PC's input remains available. It also fixes the update destination, stalled downloads and restart handling. **Use the same edition of 1.0.172 on every PC.** Both edition builds, 330 automated tests and separate input-policy/order checks passed. Actual two-PC operation and an overwrite/install/UAC/restart cycle were not tested. These are unsigned downloads; Windows warnings and protection blocks can remain. Keep protection enabled. [Release notes](https://deskhero.jp/deskbridge/en/#release-update).
 
 ## Download
 
@@ -32,9 +32,9 @@ Version 1.0.171 fixes cursor jumps after switching PCs and unintended returns fr
 
 **Not sure which edition to choose?** [See Home vs Work Lite with actual screenshots](https://note.com/hal_mei/n/n90bb7be20117). This free guide is by DeskHero, the developer and seller; screenshots are from v1.0.160, not the current release. It covers the ZIP/EXE permission difference and a short test before buying. The app and product page support English; checkout, terms and the contact form are currently Japanese.
 
-### Download v1.0.171 for Windows
+### Download v1.0.172 for Windows
 
-Install the same edition of v1.0.171 on both PCs. The links below download from DeskHero; [GitHub Releases](https://github.com/mazikomaple-del/DeskBridge/releases/tag/v1.0.171) provides the same files. No account or card is needed for the 30-day trial. If upgrading from a version below 1.0.169, pair the PCs again.
+Install the same edition of v1.0.172 on both PCs. The links below download from DeskHero; [GitHub Releases](https://github.com/mazikomaple-del/DeskBridge/releases/tag/v1.0.172) provides the same files. No account or card is needed for the 30-day trial. If upgrading from a version below 1.0.169, pair the PCs again.
 
 | Edition | ZIP package | EXE installer |
 | --- | --- | --- |
