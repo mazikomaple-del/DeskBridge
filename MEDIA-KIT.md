@@ -25,6 +25,8 @@ Share one keyboard, mouse and clipboard between Windows PCs on the same LAN, wit
 
 DeskBridge is intended for desks with multiple Windows PCs, such as a work laptop beside a personal desktop. Each PC keeps its own applications. Run the same edition and version on both PCs, verify the pairing code and arrange their cards in Flow. Switch at a screen edge or with a shortcut. Requiring Ctrl for edge switching is optional.
 
+**Choose one source of shared input.** From v1.0.172, only the PC marked as the main PC in Flow can control the others. Choose the PC connected to the keyboard and mouse you normally use. A secondary PC's mouse still works on that PC locally, but cannot take over the main PC or another secondary PC. Returning with the main PC's input remains available. This is a control-direction rule, not a claim that every setup has been tested. The [English main-PC selection and return guide](https://deskhero.jp/deskbridge/en/#main-pc-control) explains the setup and switching shortcut.
+
 ## Editions and Limits
 
 - **Home:** administrator privileges required; input sharing, text/image clipboard sharing, and file/folder transfer. Use only on a trusted private LAN, not public Wi-Fi or sensitive environments.
