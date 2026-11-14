@@ -51,6 +51,8 @@ For the ZIP package, extract it and run `DeskBridge.App.exe`. For the installer,
 
 ## First connection: from two PCs to one mouse
 
+[Choose the main PC and learn how to return](https://deskhero.jp/deskbridge/en/#main-pc-control). Start shared input from the PC connected to your preferred keyboard and mouse. A secondary PC's own mouse cannot control the main PC. The guide covers the Flow setting, return edge and switching shortcut.
+
 Start with a simple test: copy a short sentence from your desktop into Notepad on the laptop beside it.
 
 1. **Choose your main PC.** Use the PC with your usual keyboard and mouse attached. Both PCs still need their own screens.
