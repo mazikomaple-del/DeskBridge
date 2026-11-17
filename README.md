@@ -4,15 +4,15 @@
 
 ![DeskBridgeの実際のFlow画面。PCカードを画面の配置に合わせて並べます。](https://deskhero.jp/deskbridge/assets/deskbridge-flow-real.png)
 
-実際の日本語画面です（撮影版v1.0.160、公式サイトの配布版v1.0.172）。2台のPCカードを上下に配置した例です。通常はそれぞれの画面を見ながら操作先を切り替え、必要なときはPCカードのダブルクリックで相手の画面を開けます。
+実際の日本語画面です（撮影版v1.0.160、公式サイトの配布版v1.0.173）。2台のPCカードを上下に配置した例です。通常はそれぞれの画面を見ながら操作先を切り替え、必要なときはPCカードのダブルクリックで相手の画面を開けます。
 
 DeskBridgeは、在宅勤務で手元にある自宅PCと会社支給PC、または複数台のWindows PCを、1組のマウスとキーボードで操作するためのソフトウェアです。
 
 PCごとにマウスとキーボードを持ち替える必要はありません。画面端またはショートカットで操作先を切り替え、テキストや画像を同じLAN内で共有できます。Home版ではファイル・フォルダも転送できます。
 
-[公式サイトから1.0.172をダウンロード](https://deskhero.jp/deskbridge/safe-download/?utm_source=github&utm_medium=readme&utm_campaign=release_172_20261107)：メインPCからだけ他PCを操作する方式に変更しました。サブPCからメインPCへの入力を拒否し、メイン側の入力で操作中に戻る機能は維持します。自動更新の更新先・通信停止時の処理・再起動も修正しました。**全PCを同じエディションの1.0.172にそろえてください。1.0.169未満からは再ペアリングが必要です。** 初回は信頼できる同じLANで両PCの確認番号を直接確認して承認します。
+[公式サイトから1.0.173をダウンロード](https://deskhero.jp/deskbridge/safe-download/?utm_source=github&utm_medium=readme&utm_campaign=release_173_20261117)：ゲームモードはFlowのメインPCで切り替え、サブPCでは状態を表示します。ONの間も接続は維持し、切断中に変わった設定は再接続時に反映します。**全PCを同じエディションの1.0.173にそろえてください。1.0.169未満からは再ペアリングが必要です。** 初回は信頼できる同じLANで両PCの確認番号を直接確認して承認します。
 
-[GitHub Releases 1.0.172](https://github.com/mazikomaple-del/DeskBridge/releases/tag/v1.0.172)でも公式サイトと同じファイルを配布しています。330件の自動テストと入力制限・入力順の追加検証、両版のビルドを確認しました。実機2台の操作と実際の上書き更新・再起動は未検証です。未署名のためWindowsの警告・ブロックは残ります。保護機能は無効にしないでください。[更新内容と検証範囲](https://deskhero.jp/deskbridge/safe-download/#release-update)
+[GitHub Releases 1.0.173](https://github.com/mazikomaple-del/DeskBridge/releases/tag/v1.0.173)でも公式サイトと同じファイルを配布しています。330件の自動テストと画面・通信の検証165項目、両版のビルドを確認しました。実機2台の操作と実際の上書き更新・再起動は未検証です。未署名のためWindowsの警告・ブロックは残ります。保護機能は無効にしないでください。[更新内容と検証範囲](https://deskhero.jp/deskbridge/safe-download/#release-update)
 
 UAC確認画面は、そのPCで直接操作する必要があります。PCごとの接続状態表示と4言語の初回ガイドも利用できます。DB3ライセンスをお使いの場合、更新後の初回起動時はインターネットへ接続してください。
 
