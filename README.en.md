@@ -85,6 +85,12 @@ For the two-PC setup, [choose Home or Work Lite and try it for 30 days without a
 
 Try for **30 days without a card**. The trial does not automatically turn into a paid subscription. Continued use requires a license after the trial ends.
 
+**Home / Work Lite vs Pro.** Home and Work Lite are app editions; Pro is the paid license for continued use after the trial. Keep the app you tested: there is no separate Pro app to install. Buying a license does not add file or folder transfer to Work Lite.
+
+On each PC you want to use, open **License**, enter your key, and select **Apply license** while connected to the internet. One license covers up to four PCs used by the same person, not four people. [Read the English purchase and license-key guide](https://deskhero.jp/deskbridge/en/#purchase-help). Checkout, legal terms and the contact form are in Japanese; payment is in Japanese yen.
+
+Before buying, use the no-card trial to test switching to the other PC and back, and copying harmless text. A paid license does not remove Windows warnings or Smart App Control blocks. Keep security protections enabled and confirm that the app works on your PCs first.
+
 | Plan | Price in Japanese yen |
 | --- | --- |
 | Monthly | Approximately US$3.18 / month; billed at 490 yen, auto-renewing |
