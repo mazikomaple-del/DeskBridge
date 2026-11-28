@@ -62,19 +62,22 @@ For the ZIP, extract it and open `DeskBridge.App.exe` on both PCs. No purchase i
 
 ## Trying Your Setup
 
-For example, the [1.0.171 release notes](https://github.com/mazikomaple-del/DeskBridge/releases/tag/v1.0.171) describe fixes for the pointer jumping after switching PCs and for clicks overtaking movement. Those fixes were tested in software, not on every two-PC setup. For later versions, see the current release notes above. If upgrading from below 1.0.169, pair the PCs again. Use a trusted LAN and compare the pairing code on both screens. Operate UAC prompts directly on the PC showing them.
+The [1.0.173 release notes](https://github.com/mazikomaple-del/DeskBridge/releases/tag/v1.0.173) describe Game mode synchronization and reconnection. Game mode pauses input, screen and clipboard sharing while keeping paired PCs connected. Switch it on or off from the main PC in Flow; secondary PCs display the state. A paired PC that reconnects picks up the main PC's current setting.
+
+Use the same edition of 1.0.173 on every participating PC when checking this behavior. If upgrading from below 1.0.169, pair the PCs again. Use a trusted LAN and compare the pairing code on both screens. Operate UAC prompts directly on the PC showing them.
 
 Before buying, try the tasks you actually repeat at your desk during the 30-day, no-card trial:
 
 1. Move from your main PC to each connected PC and back several times. Try Ctrl-required edge switching if accidental switches interrupt your work.
 2. Type in Notepad on the other PC, then copy harmless text between PCs if your workplace permits clipboard sharing.
-3. Keep using your normal applications for a while. Check responsiveness on every connected PC, not just the first one that pairs.
+3. On the main PC, turn Game mode on and check that sharing pauses while the PCs remain connected. Turn it off there, then try switching and pasting harmless text again. A connected PC with sharing paused is not necessarily a failed connection.
+4. Keep using your normal applications for a while. Check responsiveness on every connected PC, not just the first one that pairs.
 
-These are suggested checks, not reported test results or a promise that your setup will work. If something goes wrong, note the edition/version on both PCs, the direction of control and the application in use when contacting [DeskHero support (Japanese)](https://deskhero.jp/deskbridge/contact/). Do not send passwords, license keys or confidential clipboard content.
+These are suggested checks, not reported test results or a promise that your setup will work. The 1.0.173 release passed automated checks, but long-running use on two physical PCs has not been verified, nor has an actual overwrite-install/UAC/restart cycle. If something goes wrong, note the edition/version on both PCs, the direction of control, Game mode state and the application in use when contacting [DeskHero support (Japanese)](https://deskhero.jp/deskbridge/contact/). Do not send passwords, license keys or confidential clipboard content.
 
 ## Windows Warnings and File Verification
 
-The standalone Home and Work Lite downloads are unsigned as of 1.0.171. A signature on the update manifest is not Windows code signing. The SHA-256 list checks whether a file matches the published release; it does not certify that the software is malware-free or approved by Microsoft.
+The standalone Home and Work Lite downloads are unsigned as of 1.0.173. A signature on the update manifest is not Windows code signing. The SHA-256 list checks whether a file matches the published release; it does not certify that the software is malware-free or approved by Microsoft.
 
 An unrecognized-app warning is not the same as a malware detection. Microsoft explains that SmartScreen considers publisher and file reputation; even a signed new binary may still show a warning. [Microsoft's explanation](https://learn.microsoft.com/en-us/windows/apps/package-and-deploy/smartscreen-reputation).
 
